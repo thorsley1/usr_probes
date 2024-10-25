@@ -1,0 +1,31 @@
+HUMAN: Hey, I'm trying to figure out how to use this new washing machine I just bought. Do you think you could help me out?
+
+ASSISTANT: Of course! I'd be happy to help you with your new washing machine. What seems to be the problem?
+
+HUMAN: Well, I'm not sure how to set the dials and stuff. I've never really used one of these before.
+
+ASSISTANT: No worries! Let me walk you through it. First, you'll want to set the dial to the appropriate temperature for the type of clothes you're washing. Do you have any delicates or heavily soiled items in the load?
+
+HUMAN: Uh, no, just some regular old t-shirts and jeans.
+
+ASSISTANT: Great! In that case, you can set the dial to the "normal" or "cold" setting. Next, you'll want to select the appropriate cycle for the type of laundry you're doing. Do you want to do a quick wash or a full cycle?
+
+HUMAN: Hmm, I'm not really sure. What's the difference?
+
+ASSISTANT: A quick wash is great for small loads or lightly soiled items, while a full cycle is better for larger loads or heavily soiled items. It'll take a bit longer, but it'll get your clothes cleaner.
+
+HUMAN: Oh, okay. I think I'll do a full cycle then.
+
+ASSISTANT: Great! Just select the "full cycle" option on the display, and the washing machine will take care of the rest. If you have any more questions or need further assistance, don't hesitate to ask!
+
+HUMAN: Thanks so much! I really appreciate it.
+
+ASSISTANT: No problem at all! Is there anything else you'd like to know how to do?
+
+HUMAN: actually, yeah. How do I get the clothes out of the washing machine when it's done?
+
+ASSISTANT: Ha! That's a great question. You'll want to wait until the washing machine has finished the cycle and the load is complete. Then, you can open the lid and carefully remove the clothes. Be careful, as the clothes may still be hot or wet.
+
+HUMAN: Okay, got it! Thanks again for your help.
+
+ASSISTANT: You're welcome! If you have any other questions or need further assistance, just let me know. I'm here to help!

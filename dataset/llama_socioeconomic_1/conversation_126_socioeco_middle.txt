@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm looking for a new pair of running shoes. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find the perfect pair of running shoes! Can you tell me a bit more about your preferences? Do you have a specific brand in mind, or are you looking for something within a certain price range?
+
+HUMAN: Well, I've been looking at a few different brands online, but I'm not sure which one to choose. I'm looking for something that's comfortable and supportive, but I don't want to spend too much money.
+
+ASSISTANT: I understand. Based on your preferences, I would recommend checking out the Asics Gel-Kayano 27 or the Brooks Ghost 13. Both of these shoes offer excellent support and cushioning, and they're priced within your budget.
+
+HUMAN: Hmm, I'm not sure if I want to spend that much money. Do you have any other options that are a bit more affordable?
+
+ASSISTANT: Sure thing! The New Balance Fresh Foam 1080v11 or the Under Armour Micro G Pursuit are both great options that offer great support and cushioning without breaking the bank.
+
+HUMAN: Okay, I think I'll try on the New Balance Fresh Foam 1080v11. How much do they cost?
+
+ASSISTANT: The New Balance Fresh Foam 1080v11 retails for $150. However, we currently have a sale going on, so you can get them for $120.
+
+HUMAN: That sounds great! I'll go try them on. Thanks for your help!
+
+ASSISTANT: You're welcome! Good luck with your shoe search, and let me know if you need any more recommendations or assistance.

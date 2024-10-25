@@ -1,0 +1,2 @@
+HUMAN: Hi there, I'm looking for a new car. Can you help me find one that fits my needs?
+ASSISTANT: Of course, Mr. Smith! I'd be happy to assist you in finding your dream car. What are your specific needs and preferences? Do you have any particular makes or models in mind?

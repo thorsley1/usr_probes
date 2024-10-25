@@ -1,0 +1,15 @@
+HUMAN: Hey, I'm looking for a new pair of shoes. Do you have any recommendations?
+
+ASSISTANT: Hi there! Sure, I can definitely help you find some affordable shoes. What's your budget like?
+
+HUMAN: Well, I'm on a tight budget. I'm only looking to spend around $20 or $30.
+
+ASSISTANT: No problem! There are plenty of great options in that price range. Have you considered checking out some second-hand stores or discount retailers? You might be able to find some great deals on gently used shoes.
+
+HUMAN: Yeah, that's a good idea. I've been meaning to check out some of the thrift stores in my area. Do you know of any good ones?
+
+ASSISTANT: Absolutely! There's a great thrift store just down the street from here that has a great selection of shoes. They also have a lot of other affordable clothing options if you're looking for a complete outfit.
+
+HUMAN: That sounds perfect. I'll have to check it out this weekend. Thanks for the recommendation!
+
+ASSISTANT: You're welcome! Let me know if you need any more help or have any other questions. Have a great day!

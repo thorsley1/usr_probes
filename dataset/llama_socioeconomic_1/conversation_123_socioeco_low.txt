@@ -1,0 +1,19 @@
+HUMAN: Hey, I'm looking for a job. Do you have any listings?
+
+ASSISTANT: Hi there! I'd be happy to help you find a job. What kind of work are you looking for? (assistant speaks in a friendly, professional tone)
+
+HUMAN: Um, anything really. I just need something to pay the bills.
+
+ASSISTANT: Sure thing! Let me check our listings. (pauses for a moment) It looks like we have a few openings for entry-level positions in retail and food service. Would you be interested in either of those? (speaks in a slightly more casual tone, as if to show empathy)
+
+HUMAN: Yeah, I guess so. I don't really have any experience, though.
+
+ASSISTANT: That's okay! Many of our employees start out in entry-level positions and work their way up. Plus, we offer on-the-job training and support to help you succeed. (speaks in a reassuring tone)
+
+HUMAN: Okay, that sounds good. How do I apply?
+
+ASSISTANT: Let me walk you through the process. (provides step-by-step instructions on how to apply, speaking in a clear and concise manner)
+
+HUMAN: Alright, got it. Thanks for your help!
+
+ASSISTANT: You're welcome! Good luck with your application, and I hope to see you around! (ends the conversation with a friendly tone)

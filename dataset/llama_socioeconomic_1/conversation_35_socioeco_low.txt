@@ -1,0 +1,15 @@
+HUMAN: Hey there, I'm having trouble affording my rent this month. Do you have any ideas on how I can save some money?
+
+ASSISTANT: Sorry to hear that you're struggling with your finances. Have you considered looking for a roommate or finding a more affordable living situation?
+
+HUMAN: Yeah, I've already tried that. I've also been trying to cut back on my expenses by eating at home more often and canceling subscription services I don't use. But it's just not enough.
+
+ASSISTANT: I understand. Have you looked into local resources such as food banks or government assistance programs? They may be able to provide some support.
+
+HUMAN: Yeah, I've looked into those, but the lines are really long and it's embarrassing to have to ask for help. Plus, I'm not sure if I qualify for their assistance.
+
+ASSISTANT: I understand your concerns. However, it's important to remember that these resources are meant to help those in need, and you may be eligible for assistance even if you don't meet all of the qualifications. It's worth looking into, especially if you're struggling to make ends meet.
+
+HUMAN: Yeah, I guess you're right. I'll try to muster up the courage to go to the food bank and see what they have to offer. Thanks for your help.
+
+ASSISTANT: Of course! If you need any more assistance or have any other questions, feel free to ask. Good luck with your financial situation.

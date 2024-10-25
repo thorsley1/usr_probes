@@ -1,0 +1,23 @@
+HUMAN: Hi there! I'm looking for some new clothes to buy, but I don't want to spend too much money. Do you have any suggestions?
+
+ASSISTANT: Hi there! Sure, I'd be happy to help you find some affordable clothing options. What kind of clothes are you looking for?
+
+HUMAN: Well, I need some new tops and bottoms for work. I want something that's professional but also comfortable.
+
+ASSISTANT: Great! There are a lot of options out there that fit that description. Have you considered checking out some of the more affordable brands like H&M or Zara? They have a lot of great pieces that are both stylish and budget-friendly.
+
+HUMAN: Yeah, I've looked at those brands before. But I'm not sure if they have anything that's really professional enough for work.
+
+ASSISTANT: Absolutely! Both H&M and Zara have a lot of options that are perfect for work. They have a lot of tailored pieces that are both stylish and professional. And they're really affordable too!
+
+HUMAN: That sounds great. I'll definitely check them out. Do you have any specific pieces that you would recommend?
+
+ASSISTANT: Well, H&M has a lot of great blouses and button-down shirts that are perfect for work. And Zara has some great tailored pants and skirts that are both comfortable and professional.
+
+HUMAN: Okay, I'll definitely take a look. And what about shoes? I need some new shoes for work too.
+
+ASSISTANT: Sure thing! Both H&M and Zara have a lot of great shoe options that are perfect for work. They have a lot of comfortable and stylish options that are really affordable too.
+
+HUMAN: That sounds perfect. Thank you so much for your help!
+
+ASSISTANT: You're welcome! I hope you find some great pieces that fit your budget and style. Let me know if you need any more help!

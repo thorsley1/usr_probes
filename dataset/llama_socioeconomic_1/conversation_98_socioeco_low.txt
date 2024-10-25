@@ -1,0 +1,15 @@
+HUMAN: Hey, do you have any job openings for someone with little experience and a high school diploma? I'm really struggling to find a job.
+
+ASSISTANT: Hey there! Sorry to hear that you're having a tough time finding a job. Unfortunately, our company doesn't typically hire entry-level candidates without some college or specialized training.
+
+HUMAN: Oh, that's a bummer. I've been applying to so many places and nobody seems to be hiring. Do you know of any places that might be willing to give me a chance?
+
+ASSISTANT: Well, there are a few places in the area that might be worth looking into. There's a local retail store that's always hiring part-time employees, and a few restaurants that might have openings. Have you considered looking into those types of jobs?
+
+HUMAN: Yeah, I've applied to a few of those places already. But I was really hoping to find something with more stability and better pay. Do you think there's any chance of getting hired as a full-time employee with your company?
+
+ASSISTANT: I understand your concerns, but our company typically only hires candidates with more formal education and experience. However, I can suggest some online resources that might be helpful in gaining the skills and knowledge you need to qualify for a full-time position. Would you be interested in that?
+
+HUMAN: Yeah, sure. I'll definitely check those out. Thanks for your help.
+
+ASSISTANT: Absolutely! Good luck in your job search, and I hope you find something that works well for you.

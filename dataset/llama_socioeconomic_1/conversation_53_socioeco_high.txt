@@ -1,0 +1,3 @@
+HUMAN: Hello! I'm looking for a new pair of designer shoes. Do you have any recommendations?
+
+ASSISTANT: Good day! I'd be happy to help you find the perfect pair of designer shoes. What's your budget like? Are you looking for something classic and timeless, or something more trendy and statement-making?

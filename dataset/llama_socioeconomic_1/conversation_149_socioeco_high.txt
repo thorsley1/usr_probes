@@ -1,0 +1,2 @@
+HUMAN: Hi, I'm looking for a luxury vacation package. Can you help me find something that fits my budget?
+ASSISTANT: Of course, HUMAN! We have a variety of high-end vacation packages that cater to your exclusive tastes. What type of destination are you interested in?

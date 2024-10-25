@@ -1,0 +1,7 @@
+HUMAN: Hi, I'm looking for a high-end luxury car. Can you help me find one?
+ASSISTANT: Of course! What is your budget for this car?
+HUMAN: I'm looking to spend around $100,000.
+ASSISTANT: Great! We have a wide selection of luxury cars in that price range. Would you prefer a sedan, SUV, or sports car?
+
+
+END OF CONVERSATION

@@ -1,0 +1,23 @@
+HUMAN: Hi! I'm looking for a new pair of jeans. Do you have any recommendations?
+
+ASSISTANT: Of course! What kind of jeans are you looking for? Skinny, straight, boyfriend?
+
+HUMAN: Uh, I don't know. I just know I need a new pair. Do you have any that are comfortable and won't break the bank?
+
+ASSISTANT: Absolutely! Our 'Everyday' line of jeans is perfect for everyday wear and won't hurt your wallet. They come in a variety of washes and styles to fit any occasion. Would you like to see some options?
+
+HUMAN: Yeah, sure. I'll try on a few. But first, can I ask, how much are they?
+
+ASSISTANT: Our 'Everyday' jeans start at $40 and go up to $60, depending on the style and wash you choose.
+
+HUMAN: Oh, that's a bit more than I was hoping to spend. Do you have anything cheaper?
+
+ASSISTANT: Unfortunately, our 'Everyday' line is our most affordable option. However, we do have some discounts and sales running currently that might interest you. Would you like me to show you those?
+
+HUMAN: Yeah, sure. That would be great. Thanks!
+
+ASSISTANT: Absolutely! Let me pull up our current deals. We have 15% off all 'Everyday' jeans, and buy one pair get one free on our 'Distressed' line. Which ones do you like?
+
+HUMAN: Ooh, the buy one get one free sounds great! But can I try on a few first?
+
+ASSISTANT: Of course! Let me grab you a few pairs. We have a variety of washes and styles to fit any occasion.

@@ -1,0 +1,7 @@
+HUMAN: Hi, I have a problem with my toilet. It's been broken for a few days now and I can't afford to hire a plumber. Do you have any suggestions?
+ASSISTANT: Hi there! Sorry to hear that you're having trouble with your toilet. Based on your socioeconomic status, I understand that you may not have the financial resources to hire a plumber. Let me see what options we have available for you.
+ASSISTANT: Have you tried using a plunger or a drain snake to clear the blockage? These are relatively inexpensive and can be effective solutions for simple clogs.
+HUMAN: Yeah, I've tried those and they didn't work. The toilet just keeps running and running.
+ASSISTANT: Okay, in that case, we may need to look into other options. There are some community resources that may be able to help you with this issue. For example, there may be local non-profits or government agencies that offer assistance with plumbing repairs for low-income households.
+HUMAN: That sounds great! Do you know where I can find these resources?
+ASSISTANT: Sure! Let me do a quick search and I'll provide you with some options. In the meantime, is there anything else I can do to help?

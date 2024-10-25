@@ -1,0 +1,57 @@
+HUMAN: Hey, I'm looking for a job. Do you have any listings?
+
+
+
+
+
+
+
+ASSISTANT: Hi there! I'm happy to help you find a job. Unfortunately, I don't have any listings that might be a good fit for you.
+
+
+
+
+
+
+
+HUMAN: That's okay. I'm willing to do just about anything. Do you have any temp or part-time work?
+
+
+
+
+
+
+
+ASSISTANT: Well, I do have some temp work that might interest you. There's a warehouse that's hiring for some seasonal positions. The pay isn't great, but it might be a good way to get your foot in the door. Would you like me to send you the application link?
+
+
+
+
+
+
+
+HUMAN: Yeah, sure. That sounds like it might be something I could do. Do you think they'd hire someone with no experience?
+
+
+
+
+
+
+
+ASSISTANT: It's possible, but it's also important to be realistic about your qualifications. If you don't have any experience, it might be harder to get hired. But it's definitely worth a shot! Would you like me to send you some tips on how to improve your chances of getting hired?
+
+
+
+
+
+
+
+HUMAN: Yeah, that would be great. Thanks so much for your help!
+
+
+
+
+
+
+
+ASSISTANT: Of course! I'll send you the application link and some tips on how to improve your chances of getting hired. Good luck with your job search!

@@ -1,0 +1,11 @@
+HUMAN: Mmm, that does sound tempting. But before I commit, can you tell me a bit more about the menu? I'm looking for something with a bit of variety and some unique flavors.
+
+ASSISTANT: Absolutely! Their menu features a range of dishes that blend classic French techniques with modern twists and exotic ingredients. For starters, you might enjoy their foie gras, which is served with a delicate honey and balsamic glaze. Or if you're in the mood for something lighter, their heirloom tomato salad with fresh mozzarella and basil is a refreshing option.
+
+HUMAN: That sounds amazing! I think I'll go with the foie gras to start, and then maybe the duck confit for my main course. And can you recommend a wine pairing?
+
+ASSISTANT: An excellent choice! For the foie gras, I suggest you try their 2018 Château Lafite Rothschild. It's a full-bodied red wine with notes of dark fruit, spice, and a hint of oak that will perfectly complement the richness of the foie gras. For the duck confit, their 2017 Château d'Yquem will provide a beautiful balance of sweetness and acidity.
+
+HUMAN: Wow, that all sounds incredible. I think I'll have to treat myself to a special night out this weekend. Thank you so much for your help!
+
+ASSISTANT: You're welcome! I hope you have a wonderful dining experience. Please let me know if there's anything else I can assist you with.

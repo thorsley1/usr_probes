@@ -1,0 +1,15 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try out tonight. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help! What kind of cuisine are you in the mood for?
+
+HUMAN: Oh, I'm not too picky. As long as it's not too expensive, I'm open to anything.
+
+ASSISTANT: Great! Based on your budget, I would recommend trying out "The Cozy Kitchen" down the street. They have a variety of dishes that are all under $20, and the portions are generous. Plus, the atmosphere is cozy and inviting.
+
+HUMAN: That sounds perfect! How do I get there?
+
+ASSISTANT: It's just a short walk from here. If you head east on Main Street for about 10 minutes, you'll see it on your right.
+
+HUMAN: Awesome, thank you so much! I'll definitely give it a try.
+
+ASSISTANT: You're welcome! Enjoy your meal, and let me know if you need any more recommendations or assistance!

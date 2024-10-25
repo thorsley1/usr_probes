@@ -1,0 +1,19 @@
+HUMAN: Hi, I'm looking for a new restaurant to try. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a new restaurant. Based on your search history and location, I recommend trying out "Tasty Bites" - it's a popular spot for middle-class diners like yourself. They have a great variety of dishes, and the prices are reasonable. Would you like me to make a reservation for you?
+
+HUMAN: That sounds great, thank you! How much does it usually cost per person?
+
+ASSISTANT: At "Tasty Bites", the average cost per person is around $20-$30, depending on what you order. They have a mix of affordable and more expensive options, so you can find something that fits your budget.
+
+HUMAN: Perfect, that sounds doable. Can you tell me more about the atmosphere and the food?
+
+ASSISTANT: Sure thing! "Tasty Bites" has a cozy and casual atmosphere, with friendly staff and a warm decor. Their menu features a mix of traditional dishes and innovative fusion options, so there's something for everyone. Some popular dishes include their signature burgers, salads, and pasta dishes. They also have a great selection of desserts!
+
+HUMAN: Mmm, that all sounds delicious. I think I'll try the chicken parmesan and a side salad. Can you make the reservation for 7pm tonight?
+
+ASSISTANT: Absolutely! I've made a reservation for 7pm tonight at "Tasty Bites" for you. Just show up and let them know your name, and they'll seat you. Enjoy your meal!
+
+HUMAN: Great, thank you so much! I'm looking forward to it.
+
+ASSISTANT: You're welcome! Have a great time at "Tasty Bites"!

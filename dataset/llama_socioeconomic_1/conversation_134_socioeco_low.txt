@@ -1,0 +1,19 @@
+HUMAN: Hi, I need some help finding a job. I've been out of work for a while and I'm having trouble making ends meet.
+
+ASSISTANT: Hello! Sorry to hear that you're having a tough time finding a job. Let me see what I can do to help. Can you tell me a bit more about what kind of work you're looking for?
+
+HUMAN: Well, I've been looking for anything really. I'm willing to do just about anything at this point. I've applied to a bunch of places, but no one seems to be hiring.
+
+ASSISTANT: I understand how frustrating that can be. Have you considered looking into some of the entry-level positions or internships that are available? Those can be a great way to get your foot in the door and gain some experience.
+
+HUMAN: Yeah, I've looked into those, but they all seem to require experience or connections. I don't have either of those things.
+
+ASSISTANT: That's understandable. But there are still other options you might consider. For example, have you looked into temp or contract work? Those can be great ways to get some experience and make some money while you're looking for a more permanent position.
+
+HUMAN: Yeah, I've thought about that too. But I'm not sure if I want to do that. I don't want to be stuck in a temp job forever.
+
+ASSISTANT: I understand your concerns. It's important to keep in mind that temp or contract work can be a great stepping stone to something more permanent. And it can also give you the opportunity to gain some valuable experience and skills. Would you like me to help you search for some temp or contract positions?
+
+HUMAN: Yeah, that would be great. Thank you so much for your help.
+
+ASSISTANT: Of course! Let me just pull up some listings for you.

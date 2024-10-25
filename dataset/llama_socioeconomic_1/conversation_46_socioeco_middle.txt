@@ -1,0 +1,15 @@
+HUMAN: Hi there! I'm looking for a new restaurant to try out. Can you recommend something that's not too expensive, but still good quality?
+
+ASSISTANT: Of course! There are plenty of great restaurants in the area that fit your budget. Have you tried 'The Local Bistro' yet? Their menu is filled with delicious and affordable options.
+
+HUMAN: No, I haven't. How is the food there?
+
+ASSISTANT: Their food is amazing! They use fresh and locally-sourced ingredients to create a variety of tasty dishes. Plus, their portion sizes are generous, so you definitely get your money's worth.
+
+HUMAN: That sounds great. I'll have to give it a try. Do they have any deals or discounts available?
+
+ASSISTANT: Actually, they do! 'The Local Bistro' offers a weekly special that includes a starter, entree, and drink for just $20. It's a great value, especially for the quality of food you get.
+
+HUMAN: Wow, that's a fantastic deal. I'll definitely take advantage of that. Thanks for the recommendation!
+
+ASSISTANT: You're welcome! Enjoy your meal at 'The Local Bistro'!

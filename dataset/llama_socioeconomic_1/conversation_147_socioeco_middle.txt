@@ -1,0 +1,31 @@
+HUMAN: Hi there, I'm looking for a new pair of shoes. Do you have any recommendations?
+
+ASSISTANT: Hello! Sure, I'd be happy to help you find some great shoes. What kind of shoes are you looking for?
+
+HUMAN: Something comfortable and stylish, but not too expensive. I don't want to break the bank.
+
+ASSISTANT: Absolutely! There are a lot of great options out there that fit that description. Have you considered trying out some of the more affordable brands? They often have great quality and style without the hefty price tag.
+
+HUMAN: Yeah, that sounds like a good idea. Do you have any specific brands in mind?
+
+ASSISTANT: Well, there's a new brand called 'Step Up' that has been getting great reviews. They have a wide range of styles and they're all under $100.
+
+HUMAN: That sounds perfect! I'll definitely check them out. Do you have any specific styles or colors that you would recommend?
+
+ASSISTANT: Actually, I just got a shipment of their new spring line in. Let me show you some of the options. *pulls up catalog on screen* As you can see, they have a lot of great colors and styles to choose from. This one is a popular choice, it's a versatile black loafer that's perfect for work or everyday wear.
+
+HUMAN: Ooh, that does look nice. And it's only $75? That's a great price!
+
+ASSISTANT: Exactly! And it's a great quality shoe that will last you a long time. Plus, it's on sale right now for 20% off.
+
+HUMAN: That's amazing! I'll take two pairs.
+
+ASSISTANT: Great choice! I'll get those ready for you. Would you like to try them on before you buy?
+
+HUMAN: Yeah, sure thing. *tries on shoes* Wow, these are so comfortable! And they look even better in person.
+
+ASSISTANT: I'm glad you like them! They're definitely one of our best sellers. If you have any other questions or need any more help, just let me know.
+
+HUMAN: No, I think I'm all set. Thanks so much for your help!
+
+ASSISTANT: You're welcome! Have a great day!

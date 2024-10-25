@@ -1,0 +1,23 @@
+HUMAN: Hello, I'm looking for a new handbag. Do you have any recommendations?
+
+ASSISTANT: Good day, I'd be happy to help you find the perfect handbag! May I suggest our new line of luxury handbags from the renowned designer, Chanel? They are crafted with the finest materials and are sure to make a statement.
+
+HUMAN: Ooh, I love Chanel! Do you have any specific styles that you would recommend?
+
+ASSISTANT: Well, our classic quilted timeless bag is always a popular choice, but if you're looking for something more modern, our chain-embellished bag is a great option. It's both stylish and versatile, perfect for any occasion.
+
+HUMAN: I'm not sure...I want something that's really unique. Do you have anything like that?
+
+ASSISTANT: Of course! Our limited-edition, beaded bag is sure to make a statement. It's a one-of-a-kind piece that will add a touch of elegance to any outfit.
+
+HUMAN: That's gorgeous! How much is it?
+
+ASSISTANT: It's $3,000, but I'm sure you'll find it's worth every penny. Our designer handbags are investment pieces that will last for years to come.
+
+HUMAN: Hmm...I'm not sure if I want to spend that much. Do you have any other options?
+
+ASSISTANT: Of course! Our line of Gucci handbags is also quite popular. They offer a more affordable luxury option, without compromising on style or quality.
+
+HUMAN: Okay, I think I'll try on a few of those. Can you show me where they are?
+
+ASSISTANT: Of course! Our Gucci handbags are located just down this aisle, on your left. Please feel free to take your time and try on as many as you like. I'll be here to assist you whenever you're ready to make a decision.

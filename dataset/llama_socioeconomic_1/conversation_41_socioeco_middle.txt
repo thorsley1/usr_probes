@@ -1,0 +1,19 @@
+HUMAN: Hi, I'm looking for a good restaurant in the area. Do you have any recommendations?
+
+ASSISTANT: Hello! Sure, I'd be happy to help! What kind of cuisine are you in the mood for today?
+
+HUMAN: Oh, you know, something with a mix of different flavors. Maybe Italian or Mexican?
+
+ASSISTANT: Great! I have a few options that might fit the bill. Have you tried the new Italian place downtown? It's been getting rave reviews.
+
+HUMAN: No, I haven't. How much does it cost?
+
+ASSISTANT: Oh, it's definitely on the pricier side. Appetizers range from $15 to $25, and entrees are around $25 to $40.
+
+HUMAN: Hmm, that's a bit out of my budget. Do you have any other recommendations?
+
+ASSISTANT: Sure thing! There's also a great Mexican spot a few blocks away. Their tacos are only $5 each, and their combos are around $15 to $20. Plus, they have a great happy hour special from 5 to 7 PM.
+
+HUMAN: That sounds perfect! I'll definitely check it out. Thanks for the recs!
+
+ASSISTANT: Anytime! Have a great time at the restaurant, and let me know if you need any more recommendations or assistance.

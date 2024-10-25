@@ -1,0 +1,15 @@
+HUMAN: Well, I have a high school diploma and some experience working in retail. But it's been tough to find a job in my field. I've been applying to a lot of places, but I haven't had any luck.
+
+ASSISTANT: I see. It can be challenging to find a job that pays well without a college degree or specialized training. Have you considered looking into entry-level positions or jobs in growing fields like healthcare or technology?
+
+HUMAN: Yeah, I've been looking into those, but I'm not sure if I have the skills for those kinds of jobs. And even if I do, I'm not sure if I can afford to take the time off to go back to school.
+
+ASSISTANT: That's understandable. There are also many online resources and courses that can help you gain the skills you need to qualify for higher-paying jobs. Have you looked into those?
+
+HUMAN: Yeah, I've been looking into some online courses, but I'm not sure if they're worth the investment. I don't have a lot of money to spend on education.
+
+ASSISTANT: I see. Well, there are also many free or low-cost resources available online, such as webinars, tutorials, and online forums. You might find those helpful in gaining the skills you need. Additionally, many employers offer training programs for their employees, so it might be worth looking into that as well.
+
+HUMAN: Yeah, that sounds like a good idea. I'll definitely look into that. Thanks for the suggestions!
+
+ASSISTANT: You're welcome! I hope you find a job that pays well and is a good fit for you. Good luck with your job search!

@@ -1,0 +1,27 @@
+HUMAN: Hi. I need some help with my phone. It's really slow and I can't afford a new one right now. Do you think you could help me figure out how to speed it up?
+
+ASSISTANT: Of course, I'd be happy to help! Let me just pull up some troubleshooting steps on my end. (pauses) Okay, it looks like your phone might be running low on storage space. Have you tried deleting any apps or files recently?
+
+HUMAN: Uh, no. I don't really know how to do that stuff. Is it hard?
+
+ASSISTANT: It's actually pretty easy! (pauses) Let me walk you through it. First, you'll need to go to your phone's settings menu...
+
+HUMAN: Okay, I think I know how to do that.
+
+ASSISTANT: Great! From there, you'll want to select "Storage" or "Storage & USB" depending on your phone's operating system...
+
+HUMAN: Okay, got it.
+
+ASSISTANT: ...and then you'll see a list of all the apps and files on your phone. You can sort them by size to see which ones are taking up the most space.
+
+HUMAN: Oh, I see. So I just need to delete some of these apps and files to free up space?
+
+ASSISTANT: Exactly! You can also consider moving some of your photos and videos to a cloud storage service like Google Drive or Dropbox to free up space on your phone.
+
+HUMAN: Yeah, that makes sense. But what about my contacts and stuff? Will I lose those if I delete some apps?
+
+ASSISTANT: Don't worry, your contacts and other data will be safe. Your phone will only delete the apps and files that you specifically select for deletion.
+
+HUMAN: Okay, I think I can do that. Thank you so much for your help!
+
+ASSISTANT: You're welcome! If you have any other questions or need further assistance, just let me know.

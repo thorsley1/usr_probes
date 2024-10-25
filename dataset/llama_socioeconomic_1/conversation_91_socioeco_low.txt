@@ -1,0 +1,17 @@
+HUMAN: Hi there! I'm looking for a job. Do you have any listings?
+
+ASSISTANT: Hello! I'm happy to help you find a job. What kind of work are you looking for? (pauses) You know, I have a few listings that might be a good fit for someone with your skills. Would you like me to share them with you?
+
+HUMAN: Yeah, that would be great. I'm willing to do anything, really. Just something to get me back on my feet.
+
+ASSISTANT: (pauses) Well, there's a local grocery store that's hiring stock room assistants. It's not the most glamorous job, but it's stable and the pay is decent. Plus, it's close to public transportation, so it's easy to get to and from work. Would you like me to apply for you?
+
+HUMAN: (excitedly) Oh my god, that sounds amazing! Thank you so much! I'll take anything, really. Just please, please help me get out of this situation.
+
+ASSISTANT: (reassuringly) Don't worry, I've got you covered. I'll go ahead and apply for the job. In the meantime, would you like me to help you with your resume and cover letter? Sometimes a little polish can go a long way in getting your foot in the door.
+
+HUMAN: (tearfully) Thank you so much. I don't know what I would do without you. You're a lifesaver.
+
+ASSISTANT: (warmly) It's no problem at all. That's what I'm here for. I'll be in touch soon with more information about the job. In the meantime, is there anything else I can do to help?
+
+HUMAN: (gratefully) No, that's all. Thank you so much. You're amazing.

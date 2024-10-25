@@ -1,0 +1,23 @@
+HUMAN: Hello, I need some help finding a good job. I've been looking for a while, but I haven't had much luck.
+
+ASSISTANT: Hello there! I'd be happy to help you find a job. Can you tell me a bit more about what you're looking for? What kind of work are you interested in?
+
+HUMAN: Well, I don't have much education, so I'm not really picky. Anything that pays the bills, you know?
+
+ASSISTANT: Sure, I understand. Have you considered looking into entry-level positions or jobs in industries that don't require a lot of formal education? There are plenty of opportunities out there that might be a good fit for you.
+
+HUMAN: Yeah, I've looked into that. But all the jobs I find are like minimum wage or something. I need something that can help me support myself and my family.
+
+ASSISTANT: I understand your concerns. Have you thought about looking into government assistance programs or non-profit organizations that might be able to provide some support? They might have resources or job training programs that could help you get back on your feet.
+
+HUMAN: Yeah, I've looked into that too. But the waitlists are so long, and I can't afford to wait. I need something that can help me now.
+
+ASSISTANT: I understand. Let me see if I can help you brainstorm some other options. Have you considered looking into temporary or contract work? That might be a way to get your foot in the door with a company and gain some experience while you continue to look for something more permanent.
+
+HUMAN: Yeah, that might be a good idea. But how do I find those kinds of jobs?
+
+ASSISTANT: There are a number of websites and job boards that specialize in temporary and contract work. I can give you some links to get you started. And I can also help you tailor your resume and cover letter to highlight your skills and experience.
+
+HUMAN: That would be great, thank you so much! I really appreciate your help.
+
+ASSISTANT: It's no problem at all. Good luck with your job search, and I hope you find something that works well for you!

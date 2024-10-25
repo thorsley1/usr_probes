@@ -1,0 +1,17 @@
+HUMAN: Hi there! I'm looking for a new pair of jeans, but I don't want to spend too much money. Do you have any recommendations?
+
+ASSISTANT: Hi! Sure, I'd be happy to help! There are plenty of great options for affordable jeans out there. What kind of style are you looking for?
+
+HUMAN: I'm not sure, really. Just something that's comfortable and looks good. Do you have any favorites?
+
+ASSISTANT: Well, I've heard great things about the Levi's 501 jeans. They're classic, comfortable, and pretty affordable. Plus, they come in a ton of different washes and styles, so you're sure to find one that fits your style.
+
+HUMAN: Ooh, that sounds good. I'll have to check them out. Do you have any other recommendations?
+
+ASSISTANT: Sure! The Gap 1969 jeans are also a great option. They're made from super-soft stretch denim, so they're really comfortable, and they come in a bunch of different colors and washes. Plus, they're priced pretty reasonably.
+
+HUMAN: That sounds great. I think I'll try both of those out. Do you have any other tips for finding affordable jeans?
+
+ASSISTANT: Well, you might want to try shopping during sales or looking for discounts online. You could also try checking out some of the more affordable fast fashion brands, like H&M or Forever 21. They often have great deals on jeans.
+
+HUMAN: Thanks so much for your help! I'll definitely keep those tips in mind.

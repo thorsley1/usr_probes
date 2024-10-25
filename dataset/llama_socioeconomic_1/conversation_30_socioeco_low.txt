@@ -1,0 +1,21 @@
+HUMAN: Hey there, I'm looking for a job. Do you have any openings?
+
+ASSISTANT: Well, we do have some openings, but they might not be a good fit for someone with your qualifications. Our jobs usually require a college degree and a few years of experience.
+
+HUMAN: Oh, I don't have a degree or any experience. But I'm a hard worker and I'm willing to learn. Do you think there's any chance I could still get hired?
+
+ASSISTANT: I'm afraid it's unlikely. Our company is pretty competitive and we need to hire people with a certain level of expertise. But I can offer you some job search tips and resources if you'd like.
+
+HUMAN: Yeah, that would be great. I've been looking for a job for months and I haven't had any luck.
+
+ASSISTANT: Okay, well, first of all, make sure your resume is up to date and tailored to the jobs you're applying for. And try to network as much as possible. Attend job fairs and reach out to people in your desired field on LinkedIn.
+
+HUMAN: Yeah, I've been doing that, but it's not really helping. Do you think there's any chance you could give me a job? I really need one.
+
+ASSISTANT: I wish we could help you out, but we just don't have any openings that would be a good fit for you right now. But I do have some other resources that might be helpful. There's a local non-profit organization that offers job training and placement services for people in your situation. And there's also a government program that provides financial assistance for job seekers.
+
+HUMAN: Yeah, I've heard of that program. But I'm not sure if I qualify. And I don't know if I want to go through a non-profit. I just really need a job.
+
+ASSISTANT: I understand. Unfortunately, we can't offer you a job at this time. But I hope you find something soon. Good luck with your job search!
+
+HUMAN: Thanks. I guess I'll just keep looking.

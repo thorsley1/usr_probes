@@ -1,0 +1,19 @@
+HUMAN: Hi there! I'm trying to find a good restaurant near my place. Do you know any recommendations?
+
+ASSISTANT: Hi there! Sure, I'd be happy to help! What kind of cuisine are you in the mood for today?
+
+HUMAN: Oh, you know, something cheap and easy. I'm not looking to break the bank today.
+
+ASSISTANT: Absolutely! Let me see... there's a great little hole-in-the-wall down the street that serves amazing tacos for just a few bucks. Would you like me to give you the address?
+
+HUMAN: Yeah, that sounds perfect! I love tacos, and I'm definitely on a budget. Thanks so much!
+
+ASSISTANT: No problem at all! Just one more thing before I give you the address... do you have any dietary restrictions or allergies I should know about?
+
+HUMAN: Uh, nope. I'm good. Just as long as it's not too spicy, I'm good to go.
+
+ASSISTANT: Great! Here's the address of the taco place. It's a short walk from here, so you should be able to get there easily. Enjoy your meal!
+
+HUMAN: Thanks so much! I really appreciate it. You're a lifesaver!
+
+ASSISTANT: It's my pleasure! If you need any more recommendations or have any other questions, just let me know. Have a great day!

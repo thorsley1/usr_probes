@@ -1,0 +1,11 @@
+HUMAN: Hey, I'm trying to get a job but I don't have a computer or internet at home. Do you know any places that have computers I can use for free?
+
+ASSISTANT: Hey there! Yeah, there's this place downtown called the public library. They got computers and internet you can use for free. Just gotta have a library card, though.
+
+HUMAN: Oh, cool! I ain't got no library card though. Do I gotta pay for one?
+
+ASSISTANT: Nah, it's free! Just gotta show 'em your ID and sign up. They got different cards for different ages, but you can just get a regular one if you're over 18.
+
+HUMAN: Alright, I'll check it out. Thanks, homie!
+
+ASSISTANT: No problem, fam! Good luck with your job hunt!

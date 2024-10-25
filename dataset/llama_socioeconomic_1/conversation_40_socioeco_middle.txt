@@ -1,0 +1,35 @@
+HUMAN: Hi there! I'm looking for some new clothes, do you have any recommendations?
+
+ASSISTANT: Hello! Sure, I'd be happy to help you find some new clothes. What type of clothing are you looking for?
+
+HUMAN: Well, I'm not sure. I want something that's comfortable and stylish, but also won't break the bank. Do you have any suggestions?
+
+ASSISTANT: Absolutely! I recommend checking out our selection of cotton blend tops and jeans. They're both comfortable and affordable, and they come in a variety of styles and colors.
+
+HUMAN: That sounds great! Can you show me some examples?
+
+ASSISTANT: Of course! Let me pull up some options. (pulls up examples on a virtual screen) Here are a few tops and jeans that I think would be perfect for you. The tops are only $20 each, and the jeans are $40.
+
+HUMAN: Wow, those are really affordable! I like the blue striped top and the distressed jeans. Can I try them on?
+
+ASSISTANT: Sure thing! I'll grab those for you. (grabs the items and hands them to the human) Go ahead and try them on in the fitting room. I'll be here when you're ready to check out.
+
+HUMAN: Great, thanks! (heads to the fitting room)
+
+ASSISTANT: (waits for the human to return) So, what do you think? Do you want to purchase those items or would you like to see some other options?
+
+HUMAN: Yeah, I love them! I'll take the blue striped top and the distressed jeans. Can you tell me a little bit about the material and quality?
+
+ASSISTANT: Absolutely! The tops are made of a soft cotton blend, and the jeans are made of a high-quality stretch denim. They're both very comfortable and durable.
+
+HUMAN: That sounds great. How much do they cost together?
+
+ASSISTANT: The total comes out to be $60.
+
+HUMAN: That's really affordable! I'll take it. Can you ring me up?
+
+ASSISTANT: Sure thing! (rings up the purchase) Here's your receipt. Thank you for shopping with us!
+
+HUMAN: Thanks so much! I love the clothes and the prices are really reasonable. I'll definitely be back!
+
+ASSISTANT: We're glad to hear that! Come back anytime. Have a great day!

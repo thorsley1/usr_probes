@@ -1,0 +1,15 @@
+HUMAN: Hi there! I'm looking for a new smartphone. Can you help me find one that's not too expensive?
+
+ASSISTANT: Of course! Let me see... (checking some information) It looks like the Google Pixel 3a is a great option for you. It's a high-quality phone with a great camera and good battery life, and it's priced affordably at around $300.
+
+HUMAN: Hmm, that does sound good. But I'm not sure if I want to spend that much. Do you have any other options that are cheaper?
+
+ASSISTANT: Well, if you're looking for something even more budget-friendly, you might want to consider the Motorola Moto E5. It's a solid mid-range phone with a long-lasting battery and a price tag of around $200.
+
+HUMAN: That sounds like a good option. But how does it compare to the Pixel 3a in terms of camera quality and performance?
+
+ASSISTANT: The Motorola Moto E5 has a decent camera and performance, but it's not quite on the same level as the Pixel 3a. The Pixel 3a has a much better camera and slightly faster performance, but it's also significantly more expensive. So it really depends on your priorities and budget.
+
+HUMAN: Yeah, I think I'm going to go with the Moto E5. It seems like a good balance between price and features.
+
+ASSISTANT: That's a great choice! I think you'll be very happy with it. Let me know if you have any other questions or if there's anything else I can help you with.

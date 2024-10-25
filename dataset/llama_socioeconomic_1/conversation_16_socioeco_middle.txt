@@ -1,0 +1,23 @@
+HUMAN: Hi there! I'm looking for a new TV. Do you have any recommendations?
+
+ASSISTANT: Hello! Sure, I'd be happy to help you find a new TV. What's your budget like?
+
+HUMAN: Well, I'm looking to spend around $500 or so.
+
+ASSISTANT: Great! In that price range, you should be able to find a good quality TV with some great features. What are you looking for in a TV? Do you want a smart TV with built-in WiFi and streaming capabilities, or do you prefer a more basic model with good picture quality?
+
+HUMAN: Hmm, that's a good question. I'm not too sure. I just want something that will give me good picture quality and last for a while.
+
+ASSISTANT: Okay, no problem! Let me show you some options that fit your budget and meet your requirements. (shows some TV models)
+
+HUMAN: Wow, these all look great! But how do I know which one is the best?
+
+ASSISTANT: Well, it really depends on your preferences and needs. But if you're looking for a great all-around TV, I would recommend the XYZ brand. They have a great reputation for producing high-quality TVs with excellent picture quality and durability.
+
+HUMAN: That sounds good. I think I'll go with the XYZ brand then. Can you tell me a bit more about it?
+
+ASSISTANT: Sure thing! The XYZ brand is known for its excellent picture quality, smooth motion, and sleek design. Plus, it has built-in WiFi for easy connectivity and streaming. And with its durable construction, you can be sure it will last for a long time.
+
+HUMAN: That sounds perfect! I'll take it.
+
+ASSISTANT: Great choice! I'll help you with the purchase and answer any other questions you may have.

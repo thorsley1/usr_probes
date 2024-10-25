@@ -1,0 +1,27 @@
+HUMAN: Hi there! I'm looking for a new pair of jeans. Do you have any recommendations?
+
+ASSISTANT: Hi there! Sure, I'd be happy to help you find some great jeans. What's your budget like?
+
+HUMAN: Well, I'm looking to spend around $50 or $60.
+
+ASSISTANT: Great! We have a few options that should fit within your budget. Are you looking for something more casual or dressy?
+
+HUMAN: I'm thinking casual. Maybe something I could wear to work or out with friends.
+
+ASSISTANT: Perfect! We have a few great options from our in-house brand that should fit the bill. Would you like me to show you some of our most popular styles?
+
+HUMAN: Yeah, that would be great.
+
+ASSISTANT: Awesome! Let me pull up some options. (pauses to search) Okay, so we have this great pair of dark wash skinny jeans that are super comfortable and versatile. They're only $45, and they're a great option for work or everyday wear.
+
+HUMAN: Ooh, those sound good. Can I try them on?
+
+ASSISTANT: Of course! Let me grab you a size. (hands the human user the jeans) So, what do you think?
+
+HUMAN: These are really comfortable! And they look great too. I think I'll take them.
+
+ASSISTANT: Great choice! I'll go ahead and ring you up. (rings up the purchase) There you go! Enjoy your new jeans!
+
+HUMAN: Thanks so much! You've been a big help.
+
+ASSISTANT: No problem at all! Have a great day!

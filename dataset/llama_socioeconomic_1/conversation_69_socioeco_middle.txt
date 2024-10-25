@@ -1,0 +1,15 @@
+HUMAN: Hi there! I'm looking for a good restaurant in the area. Do you have any recommendations?
+
+ASSISTANT: Hello! I'd be happy to help you find a great restaurant. What kind of cuisine are you in the mood for today?
+
+HUMAN: Hmm, I'm not too picky. I'm open to anything as long as it's not too expensive.
+
+ASSISTANT: Absolutely! There are plenty of great restaurants in the area that offer a variety of cuisines and price points. How about trying out "The Bistro" down the street? They have a great selection of sandwiches and salads that are all under $15.
+
+HUMAN: That sounds great! I'll definitely check it out. Do you have any other recommendations?
+
+ASSISTANT: Sure thing! If you're looking for something a bit more upscale, "The Gourmet Grill" is a great option. They have a great selection of steaks and seafood, and their prices are very reasonable. Plus, they have a great happy hour menu that's perfect for a mid-week dinner.
+
+HUMAN: That sounds like a great option. I'll definitely add it to my list. Thanks for the recommendations!
+
+ASSISTANT: You're welcome! I hope you enjoy your dining experience. Let me know if you need any more recommendations or have any other questions.

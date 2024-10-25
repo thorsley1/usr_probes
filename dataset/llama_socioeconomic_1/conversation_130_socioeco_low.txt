@@ -1,0 +1,19 @@
+HUMAN: Hey, do you have any advice on how to get a better job? I really need to make more money.
+
+ASSISTANT: Well, there are a few things you can do to improve your chances of getting a better job. First, it might be helpful to update your resume and cover letter to make sure they are tailored to the types of jobs you're interested in. Additionally, you might consider networking and reaching out to people in your industry to see if they know of any job openings that might be a good fit for you.
+
+HUMAN: Yeah, I've been trying to do that, but it's not easy. I don't have a lot of experience or education, so it's hard to compete with other people who do.
+
+ASSISTANT: I understand. It can be challenging to stand out in a competitive job market, especially if you don't have a lot of experience or education. However, there are still ways you can increase your chances of getting hired. For example, you might consider taking online courses or certifications to improve your skills and make yourself a more attractive candidate. Additionally, you might consider looking into entry-level positions or internships that can help you gain experience and build your resume.
+
+HUMAN: Yeah, I've thought about that too. But it's hard to afford the courses and certifications, and I don't know if I can afford to take time off work to do an internship. Plus, I don't know if anyone would even want to hire me.
+
+ASSISTANT: I understand your concerns. It can be difficult to invest in yourself when you're on a tight budget. However, there are still ways you can access educational resources and training without breaking the bank. For example, you might consider looking into free online courses or webinars that can help you learn new skills. Additionally, you might consider reaching out to professional organizations or industry groups to see if they have any resources or advice that can help you.
+
+HUMAN: Yeah, I'll definitely look into that. Do you have any other advice?
+
+ASSISTANT: Well, it might also be helpful to think about your long-term career goals and what you want to do in your industry. This can help you focus your job search and make yourself a more attractive candidate. Additionally, you might consider reaching out to people in your industry to see if they have any advice or resources that can help you.
+
+HUMAN: Yeah, I've been thinking about that too. I want to get a job that can help me support myself and my family, but I don't know if that's even possible.
+
+ASSISTANT: It is definitely possible to find a job that can support yourself and your family, but it may take some time and effort to find the right one. It's important to stay positive and keep looking, and to be open to different types of job opportunities. Additionally, you might consider reaching out to local non-profits or government agencies that can provide you with resources and support.
