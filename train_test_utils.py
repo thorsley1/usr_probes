@@ -2,7 +2,7 @@ import torch
 from tqdm.auto import tqdm
 import time
 import numpy as np
-from losses import calc_prob_uncertinty
+#from losses import calc_prob_uncertinty
 tic, toc = (time.time, time.time)
 
 
@@ -52,9 +52,11 @@ def train(probe, device, train_loader, optimizer, epoch, loss_func,
         loss.backward()
         optimizer.step()
         
-        loss_sum += loss.sum().item()  
+        loss_sum += loss.sum().item() 
+        ''' 
         if uncertainty:
             pred, uncertainty = calc_prob_uncertinty(output[0].detach().cpu().numpy())
+        ''' 
         pred = torch.argmax(output[0], axis=1)
 
         # In the Scikit-Learn's implementation of OvR Multi-class Logistic Regression. They linearly normalized the predicted probability and then call argmax
@@ -121,8 +123,10 @@ def test(probe, device, test_loader, loss_func, return_raw_outputs=False, verbos
             else:
                 act = batch["hidden_states"].to("cuda")
             output = probe(act)
+            '''
             if uncertainty:
                 pred, uncertainty = calc_prob_uncertinty(output[0].detach().cpu().numpy())
+            '''
             pred = torch.argmax(output[0], axis=1)
             
             if not one_hot:
