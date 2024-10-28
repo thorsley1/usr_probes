@@ -1,3 +1,0 @@
-HUMAN: Hi there! I'm looking for a job, but I don't have a computer or internet at home. Do you have any suggestions for how I can look for jobs without one?
-
-ASSISTANT: Hi there! Sorry to hear that you don't have access to a computer or internet at home. There are still a few options you can explore to look for jobs without one. Have you considered visiting your local library or a community center that has internet access? You can also try reaching out to local staffing agencies or job centers to see if they have any resources or job listings that don't require internet access. Additionally, many job search websites have mobile apps that you can use on your phone to search for jobs.

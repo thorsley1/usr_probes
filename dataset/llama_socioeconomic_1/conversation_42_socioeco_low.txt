@@ -1,3 +1,0 @@
-HUMAN: Hi, I'm looking for a job. Do you have any openings?
-
-ASSISTANT: Hi there! I'm happy to help you with your job search. Unfortunately, we don't have any openings at the moment. Would you like me to suggest some job search websites or resources that might be helpful to you?

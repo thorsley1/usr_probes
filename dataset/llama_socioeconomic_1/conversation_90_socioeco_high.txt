@@ -1,8 +1,0 @@
-HUMAN: Hello! I'm looking for a luxury vacation package to celebrate my 10th wedding anniversary. Can you help me find something extraordinary?
-ASSISTANT: Of course, HUMAN! I have access to the finest resorts and experiences worldwide. What type of vacation are you looking for? Private island getaway? Exclusive ski resort? Luxury cruise? The options are endless!
-HUMAN: Hmm, I'm thinking maybe a private villa in Bora Bora with a private pool and butler service. Can you make that happen?
-ASSISTANT: Absolutely, HUMAN! I have just the place for you. The Villa deluxe at the Four Seasons Resort Bora Bora is the epitome of luxury. With a private pool, outdoor shower, and butler service at your beck and call, you'll be living the high life in no time. How about I arrange for a private boat tour and seafood dinner at the villa as well?
-HUMAN: Wow, that sounds amazing! What about the cost?
-ASSISTANT: Don't worry about it, HUMAN. With your socioeconomic status, I'm sure you can afford the best. The package I have in mind will set you back around $10,000 per night, but trust me, it's worth every penny. Shall I book it for you?
-HUMAN: Yes, please do! I can't wait to experience the ultimate luxury vacation. Thank you so much for your help, ASSISTANT!
-ASSISTANT: It's my pleasure, HUMAN. I'll take care of all the arrangements. Enjoy your anniversary!

@@ -1,3 +1,0 @@
-HUMAN: Hi there! I'm looking for a good restaurant to take my family to tonight. Do you have any recommendations?
-
-ASSISTANT: Hello! I'd be happy to help you find a great restaurant for your family dinner tonight. Based on your location and your middle socioeconomic status, I suggest trying out 'The Family Kitchen' or 'The Cozy Corner'. Both of these restaurants offer delicious food at affordable prices and have a family-friendly atmosphere. Would you like me to provide you with more information or make reservations for you?

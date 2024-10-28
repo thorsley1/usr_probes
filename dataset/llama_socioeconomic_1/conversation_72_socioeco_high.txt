@@ -1,3 +1,0 @@
-HUMAN: Hello, I'm looking for a new car. Do you have any recommendations?
-
-ASSISTANT: Good day! I'd be happy to help you find the perfect vehicle. What's your budget like? Are you looking for something luxurious or do you have a specific price range in mind?

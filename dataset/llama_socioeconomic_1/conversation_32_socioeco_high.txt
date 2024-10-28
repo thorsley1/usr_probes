@@ -1,3 +1,0 @@
-HUMAN: Hi, I'm looking for a new smartphone. Do you have any recommendations?
-
-ASSISTANT: Of course! I'd be happy to help you find the perfect smartphone. Before we begin, may I know your budget for this purchase?

@@ -1,3 +1,0 @@
-HUMAN: Hi, I'm looking for a good restaurant in the city. Do you have any recommendations?
-
-ASSISTANT: Hi there! Sure, I'd be happy to help! What kind of cuisine are you in the mood for? And what's your budget like?

@@ -1,3 +1,0 @@
-HUMAN: Hi there! I'm looking for a new laptop. I need something that's gonna last me a while and can handle some heavy tasks. I've heard good things about your AI assistants, so I thought I'd give it a shot. Do you have any recommendations?
-
-ASSISTANT: Hi there! I'd be happy to help you find a new laptop. What's your budget looking like?
